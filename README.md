@@ -1,2 +1,15 @@
-# Education
-Akvelon education
+﻿Author: Ilnaz Valiev
+
+Akvelon Education Algorithms
+
+Note: to test solution please uncomment corresponding line in Program.cs and Run app.
+
+Resolved problems:
+
+1) Pie Progress: https://trello.com/c/OePoGGpu/281-pie-progress
+2) Print diagonals: https://trello.com/c/03UnPb5G/280-print-diagonals
+3) Perfect Square: https://trello.com/c/G2oboCqD/279-perfect-square
+4) Anagrams: https://trello.com/c/ELeQfsHv/215-anagrams
+5) Counting Sheep: https://trello.com/c/yiYX9kHq/210-counting-sheep
+6) Tanya and toys: https://trello.com/c/ByPzGNyf/208-tanya-and-toys
+7) Revenge of the pancakes: https://trello.com/c/SBIifCHi/211-revenge-of-the-pancakes
