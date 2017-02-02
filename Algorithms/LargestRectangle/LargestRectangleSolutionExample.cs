@@ -1,4 +1,6 @@
-﻿using System;
+﻿// https://trello.com/c/EVCHPGBZ/283-largest-rectangle
+
+using System;
 
 namespace Algorithms.LargestRectangle
 {

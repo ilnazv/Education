@@ -13,3 +13,4 @@ Resolved problems:
 5) Counting Sheep: https://trello.com/c/yiYX9kHq/210-counting-sheep
 6) Tanya and toys: https://trello.com/c/ByPzGNyf/208-tanya-and-toys
 7) Revenge of the pancakes: https://trello.com/c/SBIifCHi/211-revenge-of-the-pancakes
+8) Largest rectangle: https://trello.com/c/EVCHPGBZ/283-largest-rectangle
