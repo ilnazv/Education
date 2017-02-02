@@ -1,6 +1,7 @@
 ﻿using Algorithms.Anagrams;
 using Algorithms.CountSheep;
 using Algorithms.Diagonals;
+using Algorithms.LargestRectangle;
 using Algorithms.PancakesRevenge;
 using Algorithms.PerfectSquare;
 using Algorithms.PieProgress;
@@ -19,6 +20,7 @@ namespace Algorithms
             //CountSheepSolutionExample.Run();
             //TanyaNToysSolutionExample.Run();
             //PancakesRevengeSolutionExample.Run();
+            //LargestRectangleSolutionExample.Run();
         }
     }
 }

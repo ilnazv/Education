@@ -49,6 +49,8 @@
     <Compile Include="CountSheep\CountSheepSolutionExample.cs" />
     <Compile Include="Diagonals\Diagonals.cs" />
     <Compile Include="Diagonals\DiagonalsSolutionExample.cs" />
+    <Compile Include="LargestRectangle\LargestRectangle.cs" />
+    <Compile Include="LargestRectangle\LargestRectangleSolutionExample.cs" />
     <Compile Include="PancakesRevenge\PancakesRevenge.cs" />
     <Compile Include="PancakesRevenge\PancakesRevengeSolutionExample.cs" />
     <Compile Include="PerfectSquare\PerfectSquare.cs" />
@@ -63,7 +65,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="readme.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
