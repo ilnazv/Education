@@ -14,3 +14,4 @@ Resolved problems:
 6) Tanya and toys: https://trello.com/c/ByPzGNyf/208-tanya-and-toys
 7) Revenge of the pancakes: https://trello.com/c/SBIifCHi/211-revenge-of-the-pancakes
 8) Largest rectangle: https://trello.com/c/EVCHPGBZ/283-largest-rectangle
+9) The chosen one: https://trello.com/c/zVOWCkeI/282-the-chosen-one

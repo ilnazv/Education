@@ -1,4 +1,5 @@
 ﻿using Algorithms.Anagrams;
+using Algorithms.ChosenOne;
 using Algorithms.CountSheep;
 using Algorithms.Diagonals;
 using Algorithms.LargestRectangle;
@@ -21,6 +22,7 @@ namespace Algorithms
             //TanyaNToysSolutionExample.Run();
             //PancakesRevengeSolutionExample.Run();
             //LargestRectangleSolutionExample.Run();
+            //ChosenOneSolutionExample.Run();
         }
     }
 }
