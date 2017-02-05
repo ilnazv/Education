@@ -47,6 +47,8 @@
     <Compile Include="Anagrams\AnagramsSolutionExample.cs" />
     <Compile Include="ChosenOne\ChosenOne.cs" />
     <Compile Include="ChosenOne\ChosenOneSolutionExample.cs" />
+    <Compile Include="ComponentsInGraph\ComponentsInGraph.cs" />
+    <Compile Include="ComponentsInGraph\ComponentsInGraphSolutionExample.cs" />
     <Compile Include="CountSheep\CountSheep.cs" />
     <Compile Include="CountSheep\CountSheepSolutionExample.cs" />
     <Compile Include="Diagonals\Diagonals.cs" />
@@ -70,6 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ChosenOne\input.txt" />
+    <Content Include="ComponentsInGraph\input.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
