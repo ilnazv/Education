@@ -1,4 +1,5 @@
 ﻿using Algorithms.Anagrams;
+using Algorithms.BigSorting;
 using Algorithms.ChosenOne;
 using Algorithms.ComponentsInGraph;
 using Algorithms.CountSheep;
@@ -7,6 +8,7 @@ using Algorithms.LargestRectangle;
 using Algorithms.PancakesRevenge;
 using Algorithms.PerfectSquare;
 using Algorithms.PieProgress;
+using Algorithms.ProgrammerDay;
 using Algorithms.TanyaNToys;
 
 namespace Algorithms
@@ -25,6 +27,8 @@ namespace Algorithms
             //LargestRectangleSolutionExample.Run();
             //ChosenOneSolutionExample.Run();
             //ComponentsInGraphSolutionExample.Run();
+            //ProgrammerDaySolutionExample.Run();
+            BigSortingSolutionExample.Run();
         }
     }
 }

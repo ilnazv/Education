@@ -16,3 +16,5 @@ Resolved problems:
 8) Largest rectangle: https://trello.com/c/EVCHPGBZ/283-largest-rectangle
 9) The chosen one: https://trello.com/c/zVOWCkeI/282-the-chosen-one
 10) Components in graph: https://trello.com/c/bWvVAPgB/285-components-in-a-graph
+11) Day of the Programmer: https://trello.com/c/cehWNdiw/293-day-of-the-programmer
+12) Big Sorting: https://trello.com/c/gdHNjaiZ/294-big-sorting

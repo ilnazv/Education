@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Anagrams\Anagrams.cs" />
     <Compile Include="Anagrams\AnagramsSolutionExample.cs" />
+    <Compile Include="BigSorting\BigSorting.cs" />
+    <Compile Include="BigSorting\BigSortingSolutionExample.cs" />
     <Compile Include="ChosenOne\ChosenOne.cs" />
     <Compile Include="ChosenOne\ChosenOneSolutionExample.cs" />
     <Compile Include="ComponentsInGraph\ComponentsInGraph.cs" />
@@ -63,6 +65,8 @@
     <Compile Include="PieProgress\PieProgress.cs" />
     <Compile Include="PieProgress\PieProgressSolutionExample.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProgrammerDay\ProgrammerDay.cs" />
+    <Compile Include="ProgrammerDay\ProgrammerDaySolutionExample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TanyaNToys\TanyaNToys.cs" />
     <Compile Include="TanyaNToys\TanyaNToysSolutionExample.cs" />
