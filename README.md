@@ -18,3 +18,6 @@ Resolved problems:
 10) Components in graph: https://trello.com/c/bWvVAPgB/285-components-in-a-graph
 11) Day of the Programmer: https://trello.com/c/cehWNdiw/293-day-of-the-programmer
 12) Big Sorting: https://trello.com/c/gdHNjaiZ/294-big-sorting
+13) A Circle and a Square: https://trello.com/c/zHLhWlY9/295-a-circle-and-a-square
+14) Candy Replenishing Robot: https://trello.com/c/IixhOv44/297-candy-replenishing-robot
+15) Find the Minimum Number: https://trello.com/c/QkZoLe89/298-find-the-minimum-number

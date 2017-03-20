@@ -1,10 +1,13 @@
 ﻿using Algorithms.Anagrams;
 using Algorithms.BigSorting;
+using Algorithms.CandyRobot;
 using Algorithms.ChosenOne;
+using Algorithms.CircleAndSquare;
 using Algorithms.ComponentsInGraph;
 using Algorithms.CountSheep;
 using Algorithms.Diagonals;
 using Algorithms.LargestRectangle;
+using Algorithms.MinimumNumber;
 using Algorithms.PancakesRevenge;
 using Algorithms.PerfectSquare;
 using Algorithms.PieProgress;
@@ -28,7 +31,10 @@ namespace Algorithms
             //ChosenOneSolutionExample.Run();
             //ComponentsInGraphSolutionExample.Run();
             //ProgrammerDaySolutionExample.Run();
-            BigSortingSolutionExample.Run();
+            //BigSortingSolutionExample.Run();
+            //CircleAndSquareSolutionExample.Run();
+            //CandyRobotSolutionExample.Run();
+            //MinimumNumberSolutionExample.Run();
         }
     }
 }

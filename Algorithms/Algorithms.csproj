@@ -47,8 +47,12 @@
     <Compile Include="Anagrams\AnagramsSolutionExample.cs" />
     <Compile Include="BigSorting\BigSorting.cs" />
     <Compile Include="BigSorting\BigSortingSolutionExample.cs" />
+    <Compile Include="CandyRobot\CandyRobot.cs" />
+    <Compile Include="CandyRobot\CandyRobotSolutionExample.cs" />
     <Compile Include="ChosenOne\ChosenOne.cs" />
     <Compile Include="ChosenOne\ChosenOneSolutionExample.cs" />
+    <Compile Include="CircleAndSquare\CircleAndSquare.cs" />
+    <Compile Include="CircleAndSquare\CircleAndSquareSolutionExample.cs" />
     <Compile Include="ComponentsInGraph\ComponentsInGraph.cs" />
     <Compile Include="ComponentsInGraph\ComponentsInGraphSolutionExample.cs" />
     <Compile Include="CountSheep\CountSheep.cs" />
@@ -57,6 +61,8 @@
     <Compile Include="Diagonals\DiagonalsSolutionExample.cs" />
     <Compile Include="LargestRectangle\LargestRectangle.cs" />
     <Compile Include="LargestRectangle\LargestRectangleSolutionExample.cs" />
+    <Compile Include="MinimumNumber\MinimumNumber.cs" />
+    <Compile Include="MinimumNumber\MinimumNumberSolutionExample.cs" />
     <Compile Include="PancakesRevenge\PancakesRevenge.cs" />
     <Compile Include="PancakesRevenge\PancakesRevengeSolutionExample.cs" />
     <Compile Include="PerfectSquare\PerfectSquare.cs" />
